@@ -32,6 +32,8 @@
 bin/
 lib/
 Testing/
+func_test
+*.csv
 CMakeFiles
 Makefile
 CMakeCache.txt
