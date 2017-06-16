@@ -29,11 +29,15 @@
 
 # CMake
 *.cmake
+build/
 bin/
 lib/
 Testing/
-func_test
-*.csv
 CMakeFiles
 Makefile
 CMakeCache.txt
+cmake-build-*
+
+
+# CLion
+.idea/*
